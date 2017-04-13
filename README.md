@@ -17,7 +17,7 @@ The information related to supported browsers, devices and how to get started is
 
 This web page is supported by mostly all browsers. Kindly report any incompatibilities by sending an email to [me](mailto:ahmadnagib@fci-cu.edu.eg).
 
-## Supported Browsers
+## Supported Devices
 
 This web page is supported by all devices starting from 280 viewport width. It was tested on Google Nexus 6p, Nexus 5, iPad and Toshiba Satellite L855-B511. 
 
