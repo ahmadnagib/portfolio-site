@@ -35,7 +35,7 @@ Kindly report any incompatibilities by sending an email to [me](mailto:ahmadnagi
 Within the download you will find the following files:
 
 ```
-Portfolio-Site-master/
+portfolio-site-master/
 ├── images/
     ├── Different sizes of the web page's images
 ├── css/
@@ -46,4 +46,4 @@ Portfolio-Site-master/
 
 ## License
 
-Portfolio-site is Copyright © 2017 Ahmad Nagib. It is free software, and may be redistributed under the terms specified in the [LICENSE](/LICENSE) file.
+Portfolio-Site is Copyright © 2017 Ahmad Nagib. It is free software, and may be redistributed under the terms specified in the [LICENSE](/LICENSE) file.
